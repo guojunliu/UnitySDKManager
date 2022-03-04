@@ -1,0 +1,6 @@
+{
+"group":"TASDK",
+"libs":["libsqlite3.tbd","libxml2.tbd","libz.tbd","libstdc++.tbd","libc++.tbd"],
+"frameworks":["SafariServices.framework","WebKit.framework"],
+"excludes":["^.*.meta$","^.*.mdown$","^.*.pdf$"]
+}

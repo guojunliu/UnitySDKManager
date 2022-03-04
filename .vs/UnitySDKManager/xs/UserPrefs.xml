@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameHaus/GameHausSDKManager.cs">
+    <Files>
+      <File FileName="Assets/GameHaus/GameHausSDKManager.cs" Line="197" Column="31" />
+      <File FileName="Assets/SDKPackage/TASDK/API/UPTraceApi.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitySDKManager" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="GameHaus" expanded="True">
+                  <Node name="GameHausSDKManager.cs" selected="True" />
+                </Node>
+                <Node name="SDKPackage" expanded="True">
+                  <Node name="TASDK" expanded="True">
+                    <Node name="API" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a2049d7-1fff-478d-8bad-18994496151d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/steve/AvidlyGit/UnitySDKManager/Assets/GameHaus/GameHausSDKManager.cs" relfile="Assets/GameHaus/GameHausSDKManager.cs" line="187" column="1" />
+      <Breakpoint file="/Users/steve/AvidlyGit/UnitySDKManager/Assets/GameHaus/GameHausSDKManager.cs" relfile="Assets/GameHaus/GameHausSDKManager.cs" line="192" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
